@@ -1,0 +1,1867 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493516103569@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EE3F4CAFBB83C46F06',
+    participant: undefined
+  },
+  messageTimestamp: 1737389654,
+  pushName: 'Yo 😎',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '4',
+  from: '5493516103569'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1393ce70-8c67-477c-8a66-d1b8374c9b57',
+  keyword: 'key_adf464a2-67ac-4e7d-85ce-4dff6c533a99',
+  answer: '👨‍🔧 *Contacto del soporte técnico:*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f9ee024d1c02e1ea0cb907ea79daa67c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b78b4105-347b-4509-907e-2596cb0792d2',
+  keyword: 'ans_1393ce70-8c67-477c-8a66-d1b8374c9b57',
+  answer: '*Alejandro Sosa*\nWhatsApp/Teléfono: +54 9 351 619-6983',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c465f275ebc11e526f17dc0adcfa10bb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e54f766d-eda6-41eb-980b-1234c7abdcde',
+  keyword: 'ans_b78b4105-347b-4509-907e-2596cb0792d2',
+  answer: '*Cristian Lobato*\nWhatsApp/Teléfono: +54 9 351 256-7768',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3e8b00f8cfef250dac935cb839b3905b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a596a85d-ec1e-4a48-8fbc-5fccb50c931c',
+  keyword: 'ans_e54f766d-eda6-41eb-980b-1234c7abdcde',
+  answer: '*Santiago Quinteros*\nWhatsApp/Teléfono: +54 9 351 758-6762',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b328b8dd46ba689135a3e2984a6614fa'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bcb8821a-7521-4c0e-8192-ee38382ce497',
+  keyword: 'ans_a596a85d-ec1e-4a48-8fbc-5fccb50c931c',
+  answer: '✅ Puede contactar a cualquiera de nuestros técnicos directamente\n' +
+    '\n' +
+    '📱 Escriba *menu* para volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8ca54f0813bd51195e62a5327be33fe8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493518124268@s.whatsapp.net',
+    fromMe: false,
+    id: 'D08BF65DACC056AE917C0331D2C5FE20',
+    participant: undefined
+  },
+  messageTimestamp: 1737389668,
+  pushName: 'Nico cisterna🌙',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '5493518124268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7e431e79-a247-459d-b259-bf8a7aadbc75',
+  keyword: 'key_bf7d3243-586d-43ff-97f7-c3ea9e631824',
+  answer: '👋 ¡Hola! Soy el asistente virtual de la empresa\n*[Versión Experimental]*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '605ee2c4c66d0304cf012aad3bd03aa6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_60df6bd6-8455-433b-a687-e94ad2516acf',
+  keyword: 'ans_7e431e79-a247-459d-b259-bf8a7aadbc75',
+  answer: '🔄 ¿En qué puedo ayudarte?\n' +
+    '\n' +
+    'Selecciona una opción:\n' +
+    '\n' +
+    '1️⃣ Ver dirección y ubicación\n' +
+    '2️⃣ Consultar horarios de atención\n' +
+    '3️⃣ Hablar con un asesor\n' +
+    '4️⃣ Contactar soporte técnico\n' +
+    '5️⃣ Ver foto de la empresa\n' +
+    '6️⃣ Finalizar bot',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cbeced276149189ff3dd033edc26e33b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493518124268@s.whatsapp.net',
+    fromMe: false,
+    id: 'F685E75D70FC0F899D750274ACB57ED8',
+    participant: undefined
+  },
+  messageTimestamp: 1737389676,
+  pushName: 'Nico cisterna🌙',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5493518124268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0dc8b7d3-7a5b-45d8-88d7-858be054ec96',
+  keyword: 'key_89fd0a3a-548e-470b-9955-685107bea8d7',
+  answer: '📍 *Nuestra dirección es:*\nOlga Orozco 2855, Nuevo Poeta Lugones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9e4d4b605105915df4bc20e99772d258'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_81a041b6-a8f7-4b49-b4d9-7d142c060a0b',
+  keyword: 'ans_0dc8b7d3-7a5b-45d8-88d7-858be054ec96',
+  answer: '🗺️ Link directo a Google Maps:\nhttps://maps.app.goo.gl/ufec8A4TtuSgcVS67',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6ee4f7f01d9f1f2979ab58c0a3a098c8'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_52bf74c1-16c5-491a-bedf-f902034c02b4',
+  keyword: 'ans_81a041b6-a8f7-4b49-b4d9-7d142c060a0b',
+  answer: '📱 Escriba *menu* para volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a8e1064b7e102aa27b2ccafee384e98f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493518124268@s.whatsapp.net',
+    fromMe: false,
+    id: 'A83FF1D8D5BBE918E339665A78A6B397',
+    participant: undefined
+  },
+  messageTimestamp: 1737389681,
+  pushName: 'Nico cisterna🌙',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5493518124268'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493518124268@s.whatsapp.net',
+    fromMe: false,
+    id: '4438F24A1872B5D61008677CC051C56D',
+    participant: undefined
+  },
+  messageTimestamp: 1737389694,
+  pushName: 'Nico cisterna🌙',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '5493518124268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b802b35-289e-44c0-ac42-e110d8658bde',
+  keyword: 'key_d542952c-7cff-4255-b822-55c9643009f3',
+  answer: '↩️ Volviendo al menú principal...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '011bff583f124094bf458ebfe9397446'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_348c1b24-a603-4534-9b82-671608ee9403',
+  keyword: 'ans_4b802b35-289e-44c0-ac42-e110d8658bde',
+  answer: '🔄 Seleccione una opción:\n' +
+    '\n' +
+    '1️⃣ Ver dirección y ubicación\n' +
+    '2️⃣ Consultar horarios de atención\n' +
+    '3️⃣ Hablar con un asesor\n' +
+    '4️⃣ Contactar soporte técnico\n' +
+    '5️⃣ Ver foto de la empresa\n' +
+    '6️⃣ Finalizar bot',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3491013eff460dd1f75060dde2bb1aa8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493518124268@s.whatsapp.net',
+    fromMe: false,
+    id: 'F52C0F8C43965233750B9E98030090A2',
+    participant: undefined
+  },
+  messageTimestamp: 1737389698,
+  pushName: 'Nico cisterna🌙',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '5493518124268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_56fe63da-79e8-4040-a53a-aac8522d476e',
+  keyword: 'key_c2ab9b06-104b-49be-b918-ed8ce9ef948e',
+  answer: '⏰ *Nuestros horarios de atención es:*\n' +
+    'Lunes a Viernes de 9:00 a 18:00\n' +
+    '\n' +
+    '📱 Escriba *menu* para volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab67631d26dbe76eda46003e2e32901c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493518124268@s.whatsapp.net',
+    fromMe: false,
+    id: '17C4FB00A5A1EC17494B9B605F425F75',
+    participant: undefined
+  },
+  messageTimestamp: 1737389701,
+  pushName: 'Nico cisterna🌙',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '5493518124268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b802b35-289e-44c0-ac42-e110d8658bde',
+  keyword: 'key_d542952c-7cff-4255-b822-55c9643009f3',
+  answer: '↩️ Volviendo al menú principal...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b0a744c22db5d631b50e8f0f71f40e7b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_348c1b24-a603-4534-9b82-671608ee9403',
+  keyword: 'ans_4b802b35-289e-44c0-ac42-e110d8658bde',
+  answer: '🔄 Seleccione una opción:\n' +
+    '\n' +
+    '1️⃣ Ver dirección y ubicación\n' +
+    '2️⃣ Consultar horarios de atención\n' +
+    '3️⃣ Hablar con un asesor\n' +
+    '4️⃣ Contactar soporte técnico\n' +
+    '5️⃣ Ver foto de la empresa\n' +
+    '6️⃣ Finalizar bot',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8bcef273aa80fd9c8a1a01dcb290295f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493518124268@s.whatsapp.net',
+    fromMe: false,
+    id: 'EC9FC8E060811631FF635A3A2884CDBE',
+    participant: undefined
+  },
+  messageTimestamp: 1737389705,
+  pushName: 'Nico cisterna🌙',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '5493518124268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4c740ab7-9e29-43af-9070-4c3e8b90dff1',
+  keyword: 'key_576cabff-7bb2-4ef8-9a80-e7a3d008fcb1',
+  answer: '👨‍💼 *Contacto del asesor comercial:*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '36bf95656cfa8aaf501d6d82449d9657'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6c85309e-21e4-4ff6-8f12-24bd7a56e9a8',
+  keyword: 'ans_4c740ab7-9e29-43af-9070-4c3e8b90dff1',
+  answer: '*Fernando Lucero*\nWhatsApp/Teléfono: +54 351 616-5091',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd5ada4b0a4d435f61bac1578d7d65fce'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_429604f4-79b4-4b92-afb0-d3b87ed595b4',
+  keyword: 'ans_6c85309e-21e4-4ff6-8f12-24bd7a56e9a8',
+  answer: '✅ Puede contactarlo directamente\n' +
+    '\n' +
+    '📱 Escriba *menu* para volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b17fbb220153f356d1da98855b8ea8dc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493518124268@s.whatsapp.net',
+    fromMe: false,
+    id: '23046D884312A64BDA52952D933EEC4D',
+    participant: undefined
+  },
+  messageTimestamp: 1737389709,
+  pushName: 'Nico cisterna🌙',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '5493518124268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b802b35-289e-44c0-ac42-e110d8658bde',
+  keyword: 'key_d542952c-7cff-4255-b822-55c9643009f3',
+  answer: '↩️ Volviendo al menú principal...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b0a744c22db5d631b50e8f0f71f40e7b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_348c1b24-a603-4534-9b82-671608ee9403',
+  keyword: 'ans_4b802b35-289e-44c0-ac42-e110d8658bde',
+  answer: '🔄 Seleccione una opción:\n' +
+    '\n' +
+    '1️⃣ Ver dirección y ubicación\n' +
+    '2️⃣ Consultar horarios de atención\n' +
+    '3️⃣ Hablar con un asesor\n' +
+    '4️⃣ Contactar soporte técnico\n' +
+    '5️⃣ Ver foto de la empresa\n' +
+    '6️⃣ Finalizar bot',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8bcef273aa80fd9c8a1a01dcb290295f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493518124268@s.whatsapp.net',
+    fromMe: false,
+    id: '92232BAC4C8A392EF0A4F723F460474E',
+    participant: undefined
+  },
+  messageTimestamp: 1737389718,
+  pushName: 'Nico cisterna🌙',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '4',
+  from: '5493518124268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1393ce70-8c67-477c-8a66-d1b8374c9b57',
+  keyword: 'key_adf464a2-67ac-4e7d-85ce-4dff6c533a99',
+  answer: '👨‍🔧 *Contacto del soporte técnico:*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f9ee024d1c02e1ea0cb907ea79daa67c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b78b4105-347b-4509-907e-2596cb0792d2',
+  keyword: 'ans_1393ce70-8c67-477c-8a66-d1b8374c9b57',
+  answer: '*Alejandro Sosa*\nWhatsApp/Teléfono: +54 9 351 619-6983',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c465f275ebc11e526f17dc0adcfa10bb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e54f766d-eda6-41eb-980b-1234c7abdcde',
+  keyword: 'ans_b78b4105-347b-4509-907e-2596cb0792d2',
+  answer: '*Cristian Lobato*\nWhatsApp/Teléfono: +54 9 351 256-7768',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3e8b00f8cfef250dac935cb839b3905b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a596a85d-ec1e-4a48-8fbc-5fccb50c931c',
+  keyword: 'ans_e54f766d-eda6-41eb-980b-1234c7abdcde',
+  answer: '*Santiago Quinteros*\nWhatsApp/Teléfono: +54 9 351 758-6762',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b328b8dd46ba689135a3e2984a6614fa'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bcb8821a-7521-4c0e-8192-ee38382ce497',
+  keyword: 'ans_a596a85d-ec1e-4a48-8fbc-5fccb50c931c',
+  answer: '✅ Puede contactar a cualquiera de nuestros técnicos directamente\n' +
+    '\n' +
+    '📱 Escriba *menu* para volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8ca54f0813bd51195e62a5327be33fe8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493518124268@s.whatsapp.net',
+    fromMe: false,
+    id: 'FE0A114C757A267070D6C60DEDA413DE',
+    participant: undefined
+  },
+  messageTimestamp: 1737389728,
+  pushName: 'Nico cisterna🌙',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '5493518124268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b802b35-289e-44c0-ac42-e110d8658bde',
+  keyword: 'key_d542952c-7cff-4255-b822-55c9643009f3',
+  answer: '↩️ Volviendo al menú principal...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b0a744c22db5d631b50e8f0f71f40e7b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_348c1b24-a603-4534-9b82-671608ee9403',
+  keyword: 'ans_4b802b35-289e-44c0-ac42-e110d8658bde',
+  answer: '🔄 Seleccione una opción:\n' +
+    '\n' +
+    '1️⃣ Ver dirección y ubicación\n' +
+    '2️⃣ Consultar horarios de atención\n' +
+    '3️⃣ Hablar con un asesor\n' +
+    '4️⃣ Contactar soporte técnico\n' +
+    '5️⃣ Ver foto de la empresa\n' +
+    '6️⃣ Finalizar bot',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8bcef273aa80fd9c8a1a01dcb290295f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493518124268@s.whatsapp.net',
+    fromMe: false,
+    id: 'DF5463506268ABADCC562DD3EB27BDAB',
+    participant: undefined
+  },
+  messageTimestamp: 1737389732,
+  pushName: 'Nico cisterna🌙',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  from: '5493518124268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9b567fe3-49dc-42ab-85db-36f8deda10c7',
+  keyword: 'key_b965120e-35fa-4c96-a05b-68752aaaa67d',
+  answer: '🏢 *Nuestra empresa:*\nEnviando imagen...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3d740aa22bdfa507f6c4dab24dac21bc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0d8eaa4b-3d7d-4518-a706-acf11995c6df',
+  keyword: 'ans_9b567fe3-49dc-42ab-85db-36f8deda10c7',
+  answer: '📍 *Sede de nuestra empresa:*',
+  options: {
+    media: 'https://i.imgur.com/gOBAKUe.jpeg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '33e9373b06cbc11bd2a0baed78956156'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2b641f60-90da-4f43-a95d-6f57793cf688',
+  keyword: 'ans_0d8eaa4b-3d7d-4518-a706-acf11995c6df',
+  answer: 'Visítanos en nuestra ubicación:\nhttps://maps.app.goo.gl/ufec8A4TtuSgcVS67',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5538c21fab9270175499987d4ffceb2e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2df1b893-2a97-4ea5-891a-ebd5e173e6ba',
+  keyword: 'ans_2b641f60-90da-4f43-a95d-6f57793cf688',
+  answer: '📱 Escriba *menu* para volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b8043a9e660670867e29d61e30cd78c9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493518124268@s.whatsapp.net',
+    fromMe: false,
+    id: 'FF336CEAECF234FC4C5BC64A0AF7E6F6',
+    participant: undefined
+  },
+  messageTimestamp: 1737389741,
+  pushName: 'Nico cisterna🌙',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '5493518124268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b802b35-289e-44c0-ac42-e110d8658bde',
+  keyword: 'key_d542952c-7cff-4255-b822-55c9643009f3',
+  answer: '↩️ Volviendo al menú principal...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b0a744c22db5d631b50e8f0f71f40e7b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_348c1b24-a603-4534-9b82-671608ee9403',
+  keyword: 'ans_4b802b35-289e-44c0-ac42-e110d8658bde',
+  answer: '🔄 Seleccione una opción:\n' +
+    '\n' +
+    '1️⃣ Ver dirección y ubicación\n' +
+    '2️⃣ Consultar horarios de atención\n' +
+    '3️⃣ Hablar con un asesor\n' +
+    '4️⃣ Contactar soporte técnico\n' +
+    '5️⃣ Ver foto de la empresa\n' +
+    '6️⃣ Finalizar bot',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8bcef273aa80fd9c8a1a01dcb290295f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493518124268@s.whatsapp.net',
+    fromMe: false,
+    id: 'F9CC003E20ED21CDE5BD7871F692BB8C',
+    participant: undefined
+  },
+  messageTimestamp: 1737389759,
+  pushName: 'Nico cisterna🌙',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '6',
+  from: '5493518124268'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2416ff6d-3cd8-4cc4-9b40-e23f99072415',
+  keyword: 'key_bd0e5cff-e997-4022-9b42-5d9941e004ce',
+  answer: '🚀 Muchas gracias por comunicarte con Importadora Latinoamericana',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cdb09f2ed745a833e6520cb4b680d869'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_204630f6-b693-4fcc-a666-081a07806c7f',
+  keyword: 'ans_2416ff6d-3cd8-4cc4-9b40-e23f99072415',
+  answer: '🔄 Para conversar con el bot nuevamente, escriba "hola"',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e5ee10475c5f2d7fdad5f3bc3141bd26'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493516451453@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB4F60884D56175456F',
+    participant: undefined
+  },
+  messageTimestamp: 1737398108,
+  pushName: 'Fuoco Menues',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f2/m239/AQP9OuSKhJSPBlB_8MmcjXCP3AF0HwAUmhBQ9VX7J32VOOsG0hpycBLb3JwJkqCUimNUCfOiVyC-htBkZc9xbqhz7dh8qCiUadhhEH_h_w?ccb=9-4&oh=01_Q5AaIDfTzkVxrcQEkPE-avHKdnFQCQpX_bacFFuyzDzR1jr-&oe=67B5F201&_nc_sid=e6ed6c&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Buenas tardes 🥘. Enviamos el menú de mañana MARTES 21/01. Si estás interesado en alguno nos avisas ⌨️💬. Les pedimos que el mensaje del encargue sea por escrito y lleve cantidad (1, 2 , 3 , etc.. menu ) y diga opcion elegida (A o B) , acompañado de la direccion y el horario. Desde ya muchas gracias, Saludos FUOCO 🥘🥰',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 904,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f2/m239/AQP9OuSKhJSPBlB_8MmcjXCP3AF0HwAUmhBQ9VX7J32VOOsG0hpycBLb3JwJkqCUimNUCfOiVyC-htBkZc9xbqhz7dh8qCiUadhhEH_h_w?ccb=9-4&oh=01_Q5AaIDfTzkVxrcQEkPE-avHKdnFQCQpX_bacFFuyzDzR1jr-&oe=67B5F201&_nc_sid=e6ed6c&_nc_hot=1737398101',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 10273,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__750ef0d7-b6cf-43d7-8d83-24a1e5af351c',
+  from: '5493516451453'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0dc8b7d3-7a5b-45d8-88d7-858be054ec96',
+  keyword: 'key_89fd0a3a-548e-470b-9955-685107bea8d7',
+  answer: '📍 *Nuestra dirección es:*\nOlga Orozco 2855, Nuevo Poeta Lugones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '73d6cba3bb153768747039a98ec353f0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_81a041b6-a8f7-4b49-b4d9-7d142c060a0b',
+  keyword: 'ans_0dc8b7d3-7a5b-45d8-88d7-858be054ec96',
+  answer: '🗺️ Link directo a Google Maps:\nhttps://maps.app.goo.gl/ufec8A4TtuSgcVS67',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2a35f83f0260579aa609bd663176796f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_52bf74c1-16c5-491a-bedf-f902034c02b4',
+  keyword: 'ans_81a041b6-a8f7-4b49-b4d9-7d142c060a0b',
+  answer: '📱 Escriba *menu* para volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1355951cc4913ac2da870757e8de963c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493517586762@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7D8B5AC476A9E5B45A',
+    participant: undefined
+  },
+  messageTimestamp: 1737425294,
+  pushName: 'Santiago Quinteros',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5493517586762'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7e431e79-a247-459d-b259-bf8a7aadbc75',
+  keyword: 'key_bf7d3243-586d-43ff-97f7-c3ea9e631824',
+  answer: '👋 ¡Hola! Soy el asistente virtual de la empresa\n*[Versión Experimental]*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '605ee2c4c66d0304cf012aad3bd03aa6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_60df6bd6-8455-433b-a687-e94ad2516acf',
+  keyword: 'ans_7e431e79-a247-459d-b259-bf8a7aadbc75',
+  answer: '🔄 ¿En qué puedo ayudarte?\n' +
+    '\n' +
+    'Selecciona una opción:\n' +
+    '\n' +
+    '1️⃣ Ver dirección y ubicación\n' +
+    '2️⃣ Consultar horarios de atención\n' +
+    '3️⃣ Hablar con un asesor\n' +
+    '4️⃣ Contactar soporte técnico\n' +
+    '5️⃣ Ver foto de la empresa\n' +
+    '6️⃣ Finalizar bot',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cbeced276149189ff3dd033edc26e33b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493517586762@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3F12C6A8051B40222E',
+    participant: undefined
+  },
+  messageTimestamp: 1737425301,
+  pushName: 'Santiago Quinteros',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '5493517586762'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0dc8b7d3-7a5b-45d8-88d7-858be054ec96',
+  keyword: 'key_89fd0a3a-548e-470b-9955-685107bea8d7',
+  answer: '📍 *Nuestra dirección es:*\nOlga Orozco 2855, Nuevo Poeta Lugones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9e4d4b605105915df4bc20e99772d258'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_81a041b6-a8f7-4b49-b4d9-7d142c060a0b',
+  keyword: 'ans_0dc8b7d3-7a5b-45d8-88d7-858be054ec96',
+  answer: '🗺️ Link directo a Google Maps:\nhttps://maps.app.goo.gl/ufec8A4TtuSgcVS67',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6ee4f7f01d9f1f2979ab58c0a3a098c8'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_52bf74c1-16c5-491a-bedf-f902034c02b4',
+  keyword: 'ans_81a041b6-a8f7-4b49-b4d9-7d142c060a0b',
+  answer: '📱 Escriba *menu* para volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a8e1064b7e102aa27b2ccafee384e98f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493517586762@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC867EC3C051FAC06B2',
+    participant: undefined
+  },
+  messageTimestamp: 1737426979,
+  pushName: 'Santiago Quinteros',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menú',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Menú',
+  from: '5493517586762'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493512499232@s.whatsapp.net',
+    fromMe: false,
+    id: '5D8398057FCC8FEDF822D4843901ED95',
+    participant: undefined
+  },
+  messageTimestamp: 1737464044,
+  pushName: 'Ezequiel',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/11923753_926763356279027_5161650721059305991_n.enc?ccb=11-4&oh=01_Q5AaIE_HtubkZCrqowNHeJsyyzqQ1ZPdcjQCVkphNIHNxAPU&oe=67B72549&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 16,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/11923753_926763356279027_5161650721059305991_n.enc?ccb=11-4&oh=01_Q5AaIE_HtubkZCrqowNHeJsyyzqQ1ZPdcjQCVkphNIHNxAPU&oe=67B72549&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      contextInfo: [ContextInfo],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_voice_note__728842f0-003b-48f9-9267-9fb987d660eb',
+  from: '5493512499232'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_56fe63da-79e8-4040-a53a-aac8522d476e',
+  keyword: 'key_c2ab9b06-104b-49be-b918-ed8ce9ef948e',
+  answer: '⏰ *Nuestros horarios de atención es:*\n' +
+    'Lunes a Viernes de 9:00 a 18:00\n' +
+    '\n' +
+    '📱 Escriba *menu* para volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ab67631d26dbe76eda46003e2e32901c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493516271839@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CE592FA38FE87F757E',
+    participant: undefined
+  },
+  messageTimestamp: 1737481557,
+  pushName: 'Wall Seguridad',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas tardes Fer como estas?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Wall Seguridad',
+  body: 'Buenas tardes Fer como estas?',
+  from: '5493516271839'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7e431e79-a247-459d-b259-bf8a7aadbc75',
+  keyword: 'key_bf7d3243-586d-43ff-97f7-c3ea9e631824',
+  answer: '👋 ¡Hola! Soy el asistente virtual de la empresa\n*[Versión Experimental]*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '605ee2c4c66d0304cf012aad3bd03aa6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_60df6bd6-8455-433b-a687-e94ad2516acf',
+  keyword: 'ans_7e431e79-a247-459d-b259-bf8a7aadbc75',
+  answer: '🔄 ¿En qué puedo ayudarte?\n' +
+    '\n' +
+    'Selecciona una opción:\n' +
+    '\n' +
+    '1️⃣ Ver dirección y ubicación\n' +
+    '2️⃣ Consultar horarios de atención\n' +
+    '3️⃣ Hablar con un asesor\n' +
+    '4️⃣ Contactar soporte técnico\n' +
+    '5️⃣ Ver foto de la empresa\n' +
+    '6️⃣ Finalizar bot',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cbeced276149189ff3dd033edc26e33b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493516271839@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09D29477EA1966A3C7E',
+    participant: undefined
+  },
+  messageTimestamp: 1737481566,
+  pushName: 'Wall Seguridad',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5493516271839'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493516271839@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09D29477EA1966A3C7E',
+    participant: undefined
+  },
+  messageTimestamp: 1737481567,
+  pushName: 'Wall Seguridad',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mariela de Wall seguridad por aca',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Wall Seguridad',
+  body: 'Mariela de Wall seguridad por aca',
+  from: '5493516271839'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491131101338@s.whatsapp.net',
+    fromMe: false,
+    id: '2CDEFA4A99B8B8D022',
+    participant: undefined
+  },
+  messageTimestamp: 1737482660,
+  pushName: '5491131101338',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5491131101338'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491131101338@s.whatsapp.net',
+    fromMe: false,
+    id: '2CDEFA4A99B8B8D022',
+    participant: undefined
+  },
+  messageTimestamp: 1737482661,
+  pushName: '5491131101338',
+  broadcast: false,
+  message: Message {
+    templateMessage: TemplateMessage {
+      hydratedTemplate: [HydratedFourRowTemplate],
+      templateId: '1054735259385081'
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Macro BancoChat',
+  body: '',
+  from: '5491131101338'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491131101338@s.whatsapp.net',
+    fromMe: false,
+    id: '2CDEFA4A99B8B8D022',
+    participant: undefined
+  },
+  messageTimestamp: 1737482661,
+  pushName: '5491131101338',
+  broadcast: false,
+  verifiedBizName: 'Macro BancoChat',
+  message: Message {
+    templateMessage: TemplateMessage {
+      hydratedTemplate: [HydratedFourRowTemplate],
+      templateId: '1054735259385081'
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '5491131101338'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493516451453@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFCF183E0E21F7A2F91',
+    participant: undefined
+  },
+  messageTimestamp: 1737488022,
+  pushName: 'Fuoco Menues',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f2/m232/AQM_FwURQrz_qa6eNgsFTXf4uDQX8dRrjBMmJ5djG7uohyrAChFSBPl_Kgi47f_Qh9qOPUW4X09UFAm2HQwIt1QZAu0J4KcizjSd47cjdg?ccb=9-4&oh=01_Q5AaIHtJIWJcnvjuNPSOfOYcsVrbePrjqzbNEbswG-h6_Uc1&oe=67B7811B&_nc_sid=e6ed6c&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Buenas tardes 🥘. Enviamos el menú de mañana MIERCOLES 22/01. Si estás interesado en alguno nos avisas ⌨️💬. Les pedimos que el mensaje del encargue sea por escrito y lleve cantidad (1, 2 , 3 , etc.. menu ) y diga opcion elegida (A o B) , acompañado de la direccion y el horario. Desde ya muchas gracias, Saludos FUOCO 🥘🥰',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1280,
+      width: 904,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f2/m232/AQM_FwURQrz_qa6eNgsFTXf4uDQX8dRrjBMmJ5djG7uohyrAChFSBPl_Kgi47f_Qh9qOPUW4X09UFAm2HQwIt1QZAu0J4KcizjSd47cjdg?ccb=9-4&oh=01_Q5AaIHtJIWJcnvjuNPSOfOYcsVrbePrjqzbNEbswG-h6_Uc1&oe=67B7811B&_nc_sid=e6ed6c&_nc_hot=1737488017',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 10688,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__8182c4f3-f17e-4595-af87-4a400f50ed9d',
+  from: '5493516451453'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b802b35-289e-44c0-ac42-e110d8658bde',
+  keyword: 'key_d542952c-7cff-4255-b822-55c9643009f3',
+  answer: '↩️ Volviendo al menú principal...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b0a744c22db5d631b50e8f0f71f40e7b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_348c1b24-a603-4534-9b82-671608ee9403',
+  keyword: 'ans_4b802b35-289e-44c0-ac42-e110d8658bde',
+  answer: '🔄 Seleccione una opción:\n' +
+    '\n' +
+    '1️⃣ Ver dirección y ubicación\n' +
+    '2️⃣ Consultar horarios de atención\n' +
+    '3️⃣ Hablar con un asesor\n' +
+    '4️⃣ Contactar soporte técnico\n' +
+    '5️⃣ Ver foto de la empresa\n' +
+    '6️⃣ Finalizar bot',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8bcef273aa80fd9c8a1a01dcb290295f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493514086238@s.whatsapp.net',
+    fromMe: false,
+    id: 'D8307EDE2ECFF4F6B2456387B57869DF',
+    participant: undefined
+  },
+  messageTimestamp: 1737554988,
+  pushName: 'Cathy',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola fernando te habla cathy',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola fernando te habla cathy',
+  from: '5493514086238'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7e431e79-a247-459d-b259-bf8a7aadbc75',
+  keyword: 'key_bf7d3243-586d-43ff-97f7-c3ea9e631824',
+  answer: '👋 ¡Hola! Soy el asistente virtual de la empresa\n*[Versión Experimental]*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '605ee2c4c66d0304cf012aad3bd03aa6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_60df6bd6-8455-433b-a687-e94ad2516acf',
+  keyword: 'ans_7e431e79-a247-459d-b259-bf8a7aadbc75',
+  answer: '🔄 ¿En qué puedo ayudarte?\n' +
+    '\n' +
+    'Selecciona una opción:\n' +
+    '\n' +
+    '1️⃣ Ver dirección y ubicación\n' +
+    '2️⃣ Consultar horarios de atención\n' +
+    '3️⃣ Hablar con un asesor\n' +
+    '4️⃣ Contactar soporte técnico\n' +
+    '5️⃣ Ver foto de la empresa\n' +
+    '6️⃣ Finalizar bot',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cbeced276149189ff3dd033edc26e33b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493514086238@s.whatsapp.net',
+    fromMe: false,
+    id: '99F7AD61FF694484D8EBF8673287E642',
+    participant: undefined
+  },
+  messageTimestamp: 1737554996,
+  pushName: 'Cathy',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5493514086238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493514086238@s.whatsapp.net',
+    fromMe: false,
+    id: '99F7AD61FF694484D8EBF8673287E642',
+    participant: undefined
+  },
+  messageTimestamp: 1737554997,
+  pushName: 'Cathy',
+  broadcast: false,
+  message: Message {
+    conversation: 'De al campo sucursal de alamos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'De al campo sucursal de alamos',
+  from: '5493514086238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493514086238@s.whatsapp.net',
+    fromMe: false,
+    id: '99F7AD61FF694484D8EBF8673287E642',
+    participant: undefined
+  },
+  messageTimestamp: 1737554998,
+  pushName: 'Cathy',
+  broadcast: false,
+  message: Message {
+    conversation: 'De al campo sucursal de alamos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'De al campo sucursal de alamos',
+  from: '5493514086238'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0dc8b7d3-7a5b-45d8-88d7-858be054ec96',
+  keyword: 'key_89fd0a3a-548e-470b-9955-685107bea8d7',
+  answer: '📍 *Nuestra dirección es:*\nOlga Orozco 2855, Nuevo Poeta Lugones',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '73d6cba3bb153768747039a98ec353f0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_81a041b6-a8f7-4b49-b4d9-7d142c060a0b',
+  keyword: 'ans_0dc8b7d3-7a5b-45d8-88d7-858be054ec96',
+  answer: '🗺️ Link directo a Google Maps:\nhttps://maps.app.goo.gl/ufec8A4TtuSgcVS67',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2a35f83f0260579aa609bd663176796f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_52bf74c1-16c5-491a-bedf-f902034c02b4',
+  keyword: 'ans_81a041b6-a8f7-4b49-b4d9-7d142c060a0b',
+  answer: '📱 Escriba *menu* para volver al menú principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1355951cc4913ac2da870757e8de963c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493514086238@s.whatsapp.net',
+    fromMe: false,
+    id: '548AA1EF582B42525C0CE624EF4FD84D',
+    participant: undefined
+  },
+  messageTimestamp: 1737555036,
+  pushName: 'Cathy',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '5493514086238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493513485960@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACD878EF3C2E5AF2ED5',
+    participant: undefined
+  },
+  messageTimestamp: 1737560488,
+  pushName: 'Franco Lucero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5493513485960'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7e431e79-a247-459d-b259-bf8a7aadbc75',
+  keyword: 'key_bf7d3243-586d-43ff-97f7-c3ea9e631824',
+  answer: '👋 ¡Hola! Soy el asistente virtual de la empresa\n*[Versión Experimental]*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '605ee2c4c66d0304cf012aad3bd03aa6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_60df6bd6-8455-433b-a687-e94ad2516acf',
+  keyword: 'ans_7e431e79-a247-459d-b259-bf8a7aadbc75',
+  answer: '🔄 ¿En qué puedo ayudarte?\n' +
+    '\n' +
+    'Selecciona una opción:\n' +
+    '\n' +
+    '1️⃣ Ver dirección y ubicación\n' +
+    '2️⃣ Consultar horarios de atención\n' +
+    '3️⃣ Hablar con un asesor\n' +
+    '4️⃣ Contactar soporte técnico\n' +
+    '5️⃣ Ver foto de la empresa\n' +
+    '6️⃣ Finalizar bot',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cbeced276149189ff3dd033edc26e33b'
+}
